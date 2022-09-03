@@ -4,10 +4,10 @@
 }
 
 #mySecondH2 {
-	visibility: collapse;
+	visibility: hidden;
 	display: none;
 }
 
-#myUl{
-    
+#myUL li {
+	display: inline;
 }
