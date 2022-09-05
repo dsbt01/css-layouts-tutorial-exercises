@@ -11,3 +11,7 @@
 #myUL li {
 	display: inline;
 }
+
+strong {
+	display: block;
+}
